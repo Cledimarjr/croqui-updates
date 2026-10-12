@@ -1,0 +1,17 @@
+{
+  "version": 40,
+  "versionName": "1.0.40",
+  "nativeHash": "ea63c1998f046085",
+  "date": "2026-10-12T21:44:07.793Z",
+  "notes": "🚶 1ª/3ª pessoa mais suaves e boneco 3D novo",
+  "web": {
+    "file": "web-40.zip",
+    "sha256": "32e0bd5dbb903de5168456a3c9ea4c04808b3d42927aa4b94b24fa52806da2d4",
+    "size": 1433222
+  },
+  "apk": {
+    "file": "Croqui-1.0.40.apk",
+    "sha256": "22fdeeda012e4dbb2291eeecb8174708e143279ef84c7873ca2e7479c720d22b",
+    "size": 4245091
+  }
+}
