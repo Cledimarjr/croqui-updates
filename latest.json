@@ -1,0 +1,17 @@
+{
+  "version": 68,
+  "versionName": "1.0.68",
+  "nativeHash": "ea63c1998f046085",
+  "date": "2026-10-24T17:33:59.813Z",
+  "notes": "🏷 Identificação TIA-606 (R01-PB01-P01), diagrama topológico e carimbo profissional",
+  "web": {
+    "file": "web-68.zip",
+    "sha256": "dff385b5f3ea105c5bee1711e9b37b1d67d3e2f6233a45276b4c7cac726d5d86",
+    "size": 1500066
+  },
+  "apk": {
+    "file": "Croqui-1.0.68.apk",
+    "sha256": "fc9c8199df27a579e46e5908ebf3e962d29eaafde49d447b46be25a21906fd82",
+    "size": 4313951
+  }
+}
