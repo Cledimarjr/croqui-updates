@@ -1,0 +1,17 @@
+{
+  "version": 78,
+  "versionName": "1.0.78",
+  "nativeHash": "ea63c1998f046085",
+  "date": "2026-10-26T12:34:12.513Z",
+  "notes": "📝 Cenário atual opcional no memorial e opção de minuta sem assinaturas",
+  "web": {
+    "file": "web-78.zip",
+    "sha256": "f805660005317d7e513c54788f6ccbc06cc7d4fc32115091742c439c1328c586",
+    "size": 1516879
+  },
+  "apk": {
+    "file": "Croqui-1.0.78.apk",
+    "sha256": "0cfa7eb237caf370d8b9d00128dc230d997e9102b59bbfbc2362d68560084535",
+    "size": 4331007
+  }
+}
