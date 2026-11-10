@@ -1,0 +1,17 @@
+{
+  "version": 97,
+  "versionName": "1.0.97",
+  "nativeHash": "ea63c1998f046085",
+  "date": "2026-11-10T18:47:02.433Z",
+  "notes": "👷 Responsável técnico da empresa cadastrado: Eng. Civil Ricardo Oliveira de Melo (CREA ES-0046945/D) sai no carimbo, relatórios e memorial",
+  "web": {
+    "file": "web-97.zip",
+    "sha256": "db834664f6f1959dc2b1c711ad2e3c7aa95e8adb41f238661a19fb33ddd46d6f",
+    "size": 1619050
+  },
+  "apk": {
+    "file": "Croqui-1.0.97.apk",
+    "sha256": "10fbf86125f747b8616b19ea71f6f9f35da28ec2c19be93f5dd575a90cf0093d",
+    "size": 4433857
+  }
+}
