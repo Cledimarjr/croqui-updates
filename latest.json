@@ -1,0 +1,17 @@
+{
+  "version": 100,
+  "versionName": "1.0.100",
+  "nativeHash": "ea63c1998f046085",
+  "date": "2026-11-19T13:55:58.288Z",
+  "notes": "⬇ Baixar os relatórios do certificador anexados à certificação",
+  "web": {
+    "file": "web-100.zip",
+    "sha256": "6f44b172b55a1bd7770d15010fe8d74d070a86550c073432bf683715b239501b",
+    "size": 1625600
+  },
+  "apk": {
+    "file": "Croqui-1.0.100.apk",
+    "sha256": "dd0d8e170299511b7be8afcfbe5e34ec489b8a9680f49efdc8890c99ee0fc9f8",
+    "size": 4440538
+  }
+}
